@@ -1,0 +1,11 @@
+Sprint 1 (3 Agosto - 10 Agosto)
+Objetivo: 
+Diseño, Correción e Implementación de la base de datos en Mongo DB.
+Actividades:
+-Corregir el diseño de la base de datos - José I. García
+-Implementación en Mongo - José I. García
+-Markdown Github - Juan Diego
+-Retroalimentación - Juan y José
+-Consultar MongoDB - Juan Diego
+-Consultar las mejores práticas para integrar Angular y Mongo DB - José I. García
+-Consultar las mejores prácticas en introducción en Angular - Juan Diego
